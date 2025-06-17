@@ -22,12 +22,6 @@ Este es un juego estilo *Suika Game* desarrollado en Unity por el grupo 2 de DSA
 - Conexión a internet para sincronizar con el backend.
 - Backend Java corriendo con la misma API definida.
 
-## API esperada
-El juego se comunica con un backend REST usando JWT:
-- `/user/stats` → Obtener dinero y récord.
-- `/user/inventory` → Obtener inventario.
-- `/user/score` → Enviar nueva puntuación.
-- `/user/money` → Añadir dinero acumulado.
 
 
 ## Créditos
