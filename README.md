@@ -28,7 +28,7 @@ El juego se comunica con un backend REST usando JWT:
 - `/user/inventory` → Obtener inventario.
 - `/user/score` → Enviar nueva puntuación.
 - `/user/money` → Añadir dinero acumulado.
-- `/inventory/use/{id}` → Consumir objeto.
+
 
 ## Créditos
 Desarrollado por Laura, Victor, Jan y Omar.
